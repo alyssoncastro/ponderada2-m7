@@ -14,7 +14,7 @@ O propósito deste projeto é a elaboração de um projeto online que viabilize 
 ---
 -  Abra o terminal "cmd" e caminhe para o diretório "templates". Execute com o comando "python -m SimpleHTTPServer
 " para Python 2x ou "python -m http.server" para Python 3x.
-![rodando](../../exercicio2/ponderada2-m7/img/pythonServer.png)
+![rodando](img/pythonServer.png)
 Está rodando o front-end. Agora vamos rodar com Back-end, banco de dados e Docker-Compose
 
 -- Para isso, abra outra terminal e execute através do comando "docker-compose up"
